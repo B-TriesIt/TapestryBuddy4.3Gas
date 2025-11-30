@@ -1,0 +1,7 @@
+{
+  "name": "verison 4.3 Tapestry buddy",
+  "description": "A powerful, color-centric tapestry crochet pattern maker with image-to-chart conversion and AI-assisted instruction generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
